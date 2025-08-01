@@ -4,7 +4,7 @@ The workflow includes:
 - Exploratory Data Analysis (EDA) to understand churn patterns
 - Data preprocessing and feature engineering to clean and enhance the dataset
 - Model training and comparison using Logistic Regression, Random Forest, LightGBM, and CatBoost
-- CatBoostClassifier, which performed best, is used for final deployment=
+- CatBoostClassifier, which performed best, is used for final deployment
 - Metrics like ROC AUC and F1 Score used to evaluate model performance
 - Class imbalance addressed via balanced class weights and metric-focused evaluation
 
